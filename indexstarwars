@@ -27,7 +27,7 @@ if ($conn->connect_error) {
 
 } else {
 
-    echo "connected succesfully" . "<br/>";
+    echo "connected succesfully and great" . "<br/>";
 
 }
 
